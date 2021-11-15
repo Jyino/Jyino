@@ -5,7 +5,7 @@
 Skills: Symfony / PHP / C# / HTML / CSS / Bootstrap
 
 
-#### - 🔭 I'm looking for work
+  #### - 🔭 I'm looking for work
 - 🌱 I’m currently learning Symfony, C# 
 - 📫 If you want to reach me: Ask me in Facebook or in private
 
