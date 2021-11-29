@@ -2,7 +2,7 @@
 ### I'm actually student in BTS SIO (SLAM)
 #### Here you can find my skills and my repositories 
 
-Skills: Symfony / PHP / C# / HTML / CSS / Bootstrap
+Skills: Symfony / PHP / C# / HTML / CSS / Bootstrap / SQL
 
 
   #### - 🔭 I'm looking for work
