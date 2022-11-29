@@ -1,6 +1,8 @@
-## Hi there 👋, my name is Jean-André Thomas
-### I'm actually student in BTS SIO (SLAM)
-#### Here you can find my skills and my repositories 
+## Bienvenue sur mon profile Github 👋, mon prénom est Jean-André Thomas
+### Je suis actuellement étudiant en Licence 3 CDA (conception et développement d'applications)
+#### Ici vous pourrez retrouver mes différents projets réalisés en classes ainsi que perso
+#### De plus j'ai également d'autres projets réalisés en entreprise que vous pourrez consulter ici 
+### https://jeanandre-thomas.fr/
 
 Skills: Symfony / PHP / C# / HTML / CSS / Bootstrap / SQL
 
