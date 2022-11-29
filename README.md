@@ -19,8 +19,6 @@ Skills: Symfony / PHP / C# / HTML / CSS / Bootstrap / SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyino)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jyino)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jyino)  
 
 
