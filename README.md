@@ -12,7 +12,7 @@ Skills: Symfony / PHP / C# / HTML / CSS / Bootstrap / SQL
 - 📫 If you want to reach me: Ask me in Facebook or in private
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jyino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jeanandre.thomas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jyino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jeanandre.thomas) 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyino&show_icons=true&count_private=true)  
